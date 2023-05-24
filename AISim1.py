@@ -3,6 +3,7 @@ import random
 import sys
 WIDTH = 8  # Board is 8 spaces wide
 HEIGHT = 8 # Board is 8 spaces tall
+#Added a comment
 def drawBoard(board):
     # This function prints the board that it was passed. Returns None.
     print('  12345678')
